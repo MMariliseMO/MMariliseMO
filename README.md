@@ -2,17 +2,17 @@
 
 #
 
-⚫ Em busca da minha primeira oportunidade na área de TI;</br>
-⚫ Estou aprimorando meus conhecimentos em Python;</br>
-⚫ Conhecimento em desenvolvimento front-end (HTML, CSS)</br>
+⚪ Em busca da minha primeira oportunidade na área de TI;</br>
+⚪ Estou aprimorando meus conhecimentos em Python;</br>
+⚪ Conhecimento em desenvolvimento front-end (HTML, CSS)</br>
 
 #
 
 **Soft Skills:</br>**
-⚫ Trabalho em equipe;</br>
-⚫ Adaptabilidade;</br>
-⚫ Proatividade;</br>
-⚫ Aprendizado contínuo.</br>
+⚪ Trabalho em equipe;</br>
+⚪ Adaptabilidade;</br>
+⚪ Proatividade;</br>
+⚪ Aprendizado contínuo.</br>
 
 #
 
