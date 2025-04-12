@@ -4,7 +4,7 @@
 
 ⚪ Em busca de uma oportunidade na área de TI;</br>
 ⚪ Estou aprimorando meus conhecimentos em Python;</br>
-⚪ Conhecimento em desenvolvimento front-end (HTML, CSS)</br>
+<!--⚪ Conhecimento em desenvolvimento front-end (HTML, CSS)</br>-->
 
 #
 
