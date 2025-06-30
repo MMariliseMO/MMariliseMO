@@ -4,7 +4,6 @@
 
 ⚪ Em busca de uma oportunidade na área de TI;</br>
 ⚪ Estou aprimorando meus conhecimentos em Python;</br>
-<!--⚪ Conhecimento em desenvolvimento front-end (HTML, CSS)</br>-->
 
 #
 
@@ -19,8 +18,8 @@
 **Hard Skills:**
 <div style="display: inline_block"> 
 <img align="center" alt="Marilise-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!---<img align="center" alt="Marilise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
-<!--<img align="center" alt="Marilise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
+<img align="center" alt="Marilise-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" alt="Marilise-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Marilise-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="Marilise-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"> </div>
 
